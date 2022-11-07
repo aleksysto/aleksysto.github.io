@@ -6,7 +6,7 @@ tu tez
 **a tu juz nowy paragraficzi**
 *tu jeszcze nie*
 
-tu juz tak
+tu juz tak  
 ~~jednak nie~~
 
 a jednak tak :)
